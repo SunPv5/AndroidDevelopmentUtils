@@ -18,5 +18,6 @@
   
 #### 文件操作
  * SPUtils              SharedPreferences 封装
+ * SDCardUtils          SD卡操作封装
  * DeleteFileUtils      删除文件、文件夹
  * ZipUtil              压缩文件、文件夹
