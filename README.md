@@ -21,3 +21,5 @@
  * SDCardUtils          SD卡操作封装
  * DeleteFileUtils      删除文件、文件夹
  * ZipUtil              压缩文件、文件夹
+#### 数据转换 
+ * MsToMinUtils         毫秒转换为分秒
