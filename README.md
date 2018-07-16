@@ -17,6 +17,6 @@
  * GetApkVersion        获取Apk版本号
   
 #### 文件操作
-
+ * SPUtils              SharedPreferences 封装
  * DeleteFileUtils      删除文件、文件夹
  * ZipUtil              压缩文件、文件夹
